@@ -2,5 +2,6 @@
 DHCP=yes
 
 [DHCP]
+ClientIdentifier=mac
 UseMTU=true
 UseDomains=true

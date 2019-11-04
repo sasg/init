@@ -5,6 +5,7 @@ Virtualization=vmware
 DHCP=yes
 
 [DHCP]
+ClientIdentifier=mac
 UseMTU=true
 UseDomains=true
 RequestBroadcast=true
